@@ -58,9 +58,5 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# package lock
-yarn.lock
-package-lock.json
-
 # Yarn Integrity file
 .yarn-integrity
