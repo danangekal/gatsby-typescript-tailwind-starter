@@ -5,7 +5,7 @@
  * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
 import { ReactElement, ReactNode } from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 
 import Header from './header';
@@ -37,12 +37,12 @@ function Layout({ children }: LayoutProps): ReactElement {
           {new Date().getFullYear()}
           , Built with
           {' '}
-          <a
+          <Link
             className="text-purple-600 underline hover:text-purple-800 active:text-purple-800 font-sans"
-            href="https://www.gatsbyjs.com"
+            to="https://www.gatsbyjs.com"
           >
             Gatsby
-          </a>
+          </Link>
         </footer>
       </div>
     </>

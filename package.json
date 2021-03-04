@@ -13,15 +13,15 @@
   },
   "license": "MIT",
   "keywords": [
+    "gatsby",
+    "typescript",
+    "tailwindcss",
     "eslint",
     "husky",
     "prettier",
     "lint-staged",
-    "gatsby",
-    "typescript",
-    "tailwindcss",
-    "PWA",
-    "SEO"
+    "pwa",
+    "seo"
   ],
   "scripts": {
     "build": "gatsby build",
