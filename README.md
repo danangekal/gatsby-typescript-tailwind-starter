@@ -3,6 +3,12 @@
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
+  <a href="https://www.typescriptlang.org">
+    <img alt="Typescript" src="./src/images/typescript-icon.png" width="60" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img alt="Tailwind CSS" src="./src/images/tailwindcss-icon.png" width="60" />
+  </a>
 </p>
 <h1 align="center">
   Gatsby's typescript tailwind starter
