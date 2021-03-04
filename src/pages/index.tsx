@@ -29,7 +29,7 @@ function IndexPage(): ReactElement {
             width={80}
             quality={100}
             formats={['auto', 'webp', 'avif']}
-            alt="A Gatsby astronaut"
+            alt="A Gatsby icon"
             className="max-w-xs mx-1 mb-6"
           />
           <StaticImage
