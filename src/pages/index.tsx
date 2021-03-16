@@ -51,7 +51,12 @@ function IndexPage(): ReactElement {
         </div>
       </div>
       <p>
-        <Link className="text-purple-600 underline hover:text-purple-800 active:text-purple-800" to="/page-2/">Go to page 2</Link>
+        <Link
+          className="text-purple-600 underline hover:text-purple-800 active:text-purple-800"
+          to="/page-2/"
+        >
+          Go to page 2
+        </Link>
       </p>
     </Layout>
   );
