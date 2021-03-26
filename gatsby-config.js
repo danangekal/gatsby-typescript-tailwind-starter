@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Typescript Tailwind Starter',
     description:
-      'The default gatsby starter with typescript & tailwdind css & latest package',
+      'The default gatsby starter with typescript, tailwdind css & latest package',
     author: '@danangekal',
   },
   plugins: [
