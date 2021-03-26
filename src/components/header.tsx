@@ -11,7 +11,7 @@ function Header({ siteTitle }: HeaderProps): ReactElement {
     <header className="bg-purple-600 mb-6">
       <div className="my-0 mx-auto max-w-4xl py-6 px-4">
         <h1 className="m-0 text-4xl font-bold font-sans">
-          <Link to="/" className="text-white no-underline">
+          <Link className="text-white no-underline" to="/">
             {siteTitle}
           </Link>
         </h1>
