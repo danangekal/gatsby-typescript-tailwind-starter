@@ -14,11 +14,9 @@
   Gatsby's typescript tailwind starter
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/npm/l/gatsby-typescript-tailwind-starter?color=blue" alt="Gatsby is released under the MIT license." />
-  <img src="https://img.shields.io/npm/v/gatsby-typescript-tailwind-starter" alt="Current npm package version." />
-  <img src="https://img.shields.io/node/v/gatsby-typescript-tailwind-starter" alt="Current node package version." />
-  <img src="https://img.shields.io/npm/dm/gatsby-typescript-tailwind-starter" alt="Downloads per month on npm." />
-  <img src="https://img.shields.io/npm/dt/gatsby-typescript-tailwind-starter" alt="Total downloads on npm." />
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="Gatsby is released under the MIT license." />
+  <img src="https://img.shields.io/badge/version-v.1.0.0-blue" alt="Current npm package version." />
+  <img src="https://img.shields.io/badge/node-%3E%3D12.13.0-green" alt="Current node package version." />
 </p>
 
 This starter is based on [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default). Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
